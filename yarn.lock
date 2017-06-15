@@ -3526,6 +3526,10 @@ react-devtools-core@^2.1.8:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-fabric@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/react-native-fabric/-/react-native-fabric-0.4.1.tgz#5fcb604daf17d0dff70603ff3eeba9e3f3160ddd"
+
 react-native@0.45.1:
   version "0.45.1"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.45.1.tgz#b3283c4a88233421f9c662a2ff1a4ccc8a9f07c0"

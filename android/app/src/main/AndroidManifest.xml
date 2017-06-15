@@ -27,6 +27,9 @@
         </intent-filter>
       </activity>
       <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+      <meta-data
+        android:name="io.fabric.ApiKey"
+        android:value="35ee5e34059fb546906b887cbab69fed92e46e24"
+      />
     </application>
-
 </manifest>
